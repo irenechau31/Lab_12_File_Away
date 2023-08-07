@@ -1,0 +1,6 @@
+Sample fata for our file writing example
+My name is Irene Chau.
+I was born in 2001.
+I'm studying in University of Cincinnati.
+I'm majoring in Finance.
+I also have a minor in Mathematics
